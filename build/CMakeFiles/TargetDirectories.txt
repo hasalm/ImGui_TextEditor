@@ -1,0 +1,3 @@
+D:/repos/UdemyCppGui/2_ImGui/TextEditorX/build/CMakeFiles/ImGuiHelloWorld.dir
+D:/repos/UdemyCppGui/2_ImGui/TextEditorX/build/CMakeFiles/ALL_BUILD.dir
+D:/repos/UdemyCppGui/2_ImGui/TextEditorX/build/CMakeFiles/ZERO_CHECK.dir
